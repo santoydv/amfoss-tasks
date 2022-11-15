@@ -1,0 +1,1 @@
+As everything was clearly explained in the link, this task was quite easy for me.
