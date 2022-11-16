@@ -1,4 +1,4 @@
-## Terminal Command which I used
+## Terminal Commands which I used
 1. git clone <url>
 2. mkdir <directory_name>
 3. cd <directory_name>
@@ -16,4 +16,4 @@
 15. git remote origin <url>
 
 ## Terminal Command I will use to push
-git push -u origin master   or  git push -f
+git push -u origin <branch_name>   or  git push -f
