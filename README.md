@@ -20,7 +20,7 @@
 | [Task-12](https://github.com/santoydv/amfoss-tasks/tree/main/task-12)     | Bunny Heist                      | Not attempted                                         |
 | [Task-13](https://github.com/santoydv/amfoss-tasks/tree/main/task-13)     | Footfall Counter                 | Completed                                             |
 | [Task-14](https://github.com/santoydv/amfoss-tasks/tree/main/task-14)     | Bandit                           | Completed                                             |
-| [Task-15](https://github.com/santoydv/amfoss-tasks/tree/main/task-15)     | Project Euler                    | Completed but did not get full marks in some quetions |
+| [Task-15](https://github.com/santoydv/amfoss-tasks/tree/main/task-15)     | Project Euler                    | Completed only two quetions |
 
 ## My views about the tasks
 Few of the tasks were easy, some were average, and a few were very difficult. In my experience, flutter one was really difficult for me, and CS50 proved to be very helpful. As a result of these diverse tasks, I was able to learn many things and also developed an aptitude for self-learning. As a whole, the tasks are good and one will learn a lot after completing them.
