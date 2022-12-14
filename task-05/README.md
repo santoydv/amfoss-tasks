@@ -1,0 +1,3 @@
+## Find The Bug
+
+After learning Csharp basics and reading several articles, I was able to debug the code, but running it was a real challenge. I tried running it for almost a week after debugging both sides of the programs but it was not helping. Eventually, after watching a YouTube video, I ran it in a source/repo directory on Windows to get it working. I have still not figured out why it was not working on ubuntu.
